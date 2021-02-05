@@ -31,16 +31,14 @@
 - 높은 곳의 상자를 낮은 곳에 옮기는 작업
 - 상자를 옮기는 작업 횟수에 제한이 걸려 있음
 - 제한된 횟수만큼 옮기는 작업을 한 후 최고점과 최저점의 차이를 반환하는 프로그램
-
-#### 생각해야 되는 부분
-- 평탄화 작업이 다 됐을 경우의 판단
-[코드](https://github.com/KimUJin3359/Array/blob/master/Flatten/Flatten/main.cpp)
+- **생각해야 되는 부분**
+  - 평탄화 작업이 다 됐을 경우의 판단
+  - [코드](https://github.com/KimUJin3359/Array/blob/master/Flatten/Flatten/main.cpp)
 
 [2. Frequency](https://github.com/KimUJin3359/Array/tree/master/Frequency)
 - 평범한 최빈수를 구하는 문제
 
 [3. View](https://github.com/KimUJin3359/Array/tree/master/View)
 - 양 쪽 2칸 이상의 공간이 확보될 때 조망권이 확보된다고 할 때, 조망권이 확보된 세대의 수를 구하는 프로그램
-
-#### 접근 방법
-- 현 빌딩의 높이 - 양쪽 두칸에서의 최대값 > 0인 경우 조망권이 확보된다고 할 수 
+- 접근 방법
+  - 현 빌딩의 높이 - 양쪽 두칸에서의 최대값 > 0인 경우 조망권이 확보된다고 할 수 
